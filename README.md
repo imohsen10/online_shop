@@ -14,8 +14,6 @@ If you are interested in working on this project, I would love for you to add th
 - Create and design the registration, login, shopping cart, and product information forms. This refers to the section where a user can click on a product to review it in detail.
 - Any visual changes to the admin panel are welcome; we would be happy for you to expand on them.
 
-After completing each requested feature, please use the phrase: "//Done" next to the completed feature in this file. For example:
-create AdminPanel And design //Done or WellDone.
 
 Of course, you can change any part of the site that you wish; I have highlighted the critical features above.
 
@@ -27,7 +25,7 @@ Additional information about this project: The project is in Persian and primari
 
 اگر علاقه دارید، خوشحال می‌شوم روی این پروژه کار کنید و با هم به گسترش آن بپردازیم و ویژگی‌هایی در بخش‌های بک‌اند و فرانت‌اند اضافه کنیم.
 
-هدف این پروژه راه‌اندازی یک فروشگاه آنلاین است. به دلیل کمبود وقت از دو قالب آماده استفاده کرده‌ام: قالب اصلی بر اساس وب‌سایت seo90.ir و قالب پنل مدیریت بر اساس netcopy.ir ساخته شده است. در حال حاضر ما در حال تمرکز بر گسترش بخش فرانت هستیم.
+هدف این پروژه راه‌اندازی یک فروشگاه آنلاین است. به دلیل کمبود وقت از دو قالب آماده استفاده کرده‌ام: قالب اصلی بر از وب‌سایت seo90.ir و قالب پنل مدیریت از netcopy.ir گرفته و ایجاد شده است. در حال حاضر ما در حال تمرکز بر گسترش بخش فرانت هستیم.
 
 اگر شما علاقه‌مند هستید روی این پروژه کار کنید، خوشحال می‌شوم گزینه‌های زیر را به آن اضافه کنید:
 
@@ -36,9 +34,6 @@ Additional information about this project: The project is in Persian and primari
 - تنظیم سایز محصولات در نمایشگرهای موبایل، به ویژه در بخش آخر سایت. اگر خواستید می‌توانید ظاهر این کارت‌های خرید را نیز تغییر دهید.
 - ایجاد و دیزاین فرم‌های ثبت‌نام، ورود، سبد خرید و اطلاعات محصول. یعنی قسمتی که کاربر روی محصول کلیک کرده و می‌تواند آن را بهتر بررسی کند.
 - هرگونه تغییر ظاهری در پنل مدیریت مشکلی ندارد و خوشحال می‌شویم آن‌ها را گسترش دهید.
-
-بعد از اتمام هر ویژگی خواسته شده در این فایل، لطفاً از عبارت "//انجام شد" در کنار ویژگی انجام شده استفاده کنید. به عنوان مثال:
-create AdminPanel And design //Done or WellDone.
 
 البته شما می‌توانید هر قسمت از سایت را که خواستید تغییر دهید؛ ویژگی‌های حیاتی را بالاتر ذکر کرده‌ام.
 
